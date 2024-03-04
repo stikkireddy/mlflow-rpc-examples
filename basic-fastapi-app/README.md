@@ -4,7 +4,7 @@
 ## Instructions
 
 ```bash
-pip install mlrpc
+pip install -U 'mlrpc[cli]'
 ```
 
 1. `mlrpc deploy -p <profile>`: This will deploy the artifacts to databricks
